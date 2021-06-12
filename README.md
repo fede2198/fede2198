@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fede2198
+- 👀 I’m interested in machine learning, data analysis and particle physics simulations
+- 🌱 I’m currently studying Theoretical Particle Physics at Sapienza Università di Roma
+- 📫 How to reach me: troni.1808247@studenti.uniroma1.it
